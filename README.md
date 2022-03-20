@@ -2,4 +2,4 @@
 A project-based learning series
 
 ## Lessons:
-- :pencil2: HTML and CSS
+- :white_check_mark: [HTML and CSS](https://codedojoph.github.io/kanban/lesson-1/)
